@@ -69,6 +69,7 @@
             
         </div>
         
+        <div className="copyright">Designed and developed by surya</div>
       </div>
     )
   }
